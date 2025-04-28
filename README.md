@@ -1,12 +1,80 @@
-# React + Vite
+# ⏲️ Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive timer web app built with React 19 and Tailwind CSS 4.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [timer-one-eta.vercel.app](https://timer-one-eta.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Project Screenshot](https://github.com/user-attachments/assets/e28beef6-0ec6-4355-8dd1-709e35aca20d)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- Start, stop, and reset timer functionality
+- Clean and minimalistic design
+- Mobile-first responsive UI
+- Smooth animations and transitions
+
+---
+
+## 🛠️ Tech Stack
+- **React 19** (Frontend library)
+- **Vite 6** (Build tool)
+- **Tailwind CSS 4** (Utility-first CSS framework)
+
+---
+
+## 📦 Dependencies
+- **React**: Core framework
+- **Tailwind CSS**: For styling
+- **Vite**: For fast development and build
+
+---
+
+## 📫 Contact  
+Developed by **Hamed Moradi**  
+- GitHub: [hamedmoradidev](https://github.com/hamedmoradidev)  
+- Instagram: [@hamed.moradi.dev](https://www.instagram.com/hamedmoradidev)  
+- LinkedIn: [Hamed Moradi](https://www.linkedin.com/in/hamedmoradidev)
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hamedmoradidev/quiz.git
+cd quiz
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+The final build will be available in the `dist/` folder.
+
+---
+
+## 📋 Requirements
+- Node.js (>= 16)
+- npm (>= 8)
+
+---
+
+## 📝 License
+This project is licensed under the **MIT License**.
